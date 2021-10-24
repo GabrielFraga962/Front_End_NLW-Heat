@@ -15,7 +15,7 @@ O repositório conterá a parte da aplicação feito em Reactjs
 
 # Descrição do Projeto 📋 🖋 
 
-Nessa aula criaremos o <b>front-end</b> web da nossa aplicação utilizando <b>ReactJS</b>. Além disso, criaremos nosso projeto utilizando o Vite, uma ferramenta extremamente performática, TypeScript e CSS modules. Vamos construir toda interface da aplicação do zero com Flexbox e Grid System, além de criar animações utilizando Framer Motion.
+Criaremos o <b>front-end</b> web da nossa aplicação utilizando <b>ReactJS</b>. Além disso, criaremos nosso projeto utilizando o Vite, uma ferramenta extremamente performática, TypeScript e CSS modules. Vamos construir toda interface da aplicação do zero com Flexbox e Grid System, além de criar animações utilizando Framer Motion.
 
 ---
 
