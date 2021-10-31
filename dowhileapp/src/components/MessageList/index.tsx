@@ -4,6 +4,7 @@ import logoImg from "../../assets/logo.svg";
 import { api } from "../../services/api";
 import { useEffect, useState } from "react";
 
+
 type Message = {
   id: string;
   text: string;

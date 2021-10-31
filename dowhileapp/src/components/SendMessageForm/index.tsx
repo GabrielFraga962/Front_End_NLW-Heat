@@ -49,7 +49,6 @@ export function SendMessageForm() {
           onChange={(event) => setMessage(event.target.value)}
           value={message}
         />
-
         <button type="submit">Enviar mensagem</button>
       </form>
     </div>
